@@ -1,4 +1,4 @@
-# Okta LoadGen
+# LoadGen
 
 Requirements:
 
@@ -10,7 +10,7 @@ Steps:
 
 1. Install Maven - https://maven.apache.org/install.html
 
-2. Download OktaBulkLoad repository from Github - https://github.com/schandra-okta/OktaLoadGen.git
+2. Download LoadGen repository from Github - https://github.com/schandra-okta/LoadGen.git
 
 3. Make appropriate changes to the config.properties file to match up with
    your local environment
